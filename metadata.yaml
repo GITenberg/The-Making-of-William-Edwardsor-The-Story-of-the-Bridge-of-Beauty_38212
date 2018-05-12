@@ -1,0 +1,31 @@
+_repo: The-Making-of-William-Edwardsor-The-Story-of-the-Bridge-of-Beauty_38212
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Banks, G. Linnaeus (George Linnaeus), Mrs.
+    aliases:
+    - Banks, Mrs. G. Linnaeus
+    - Banks, Mrs. George Linnaeus
+    - Banks, Isabella Varley
+    - Varley, Isabella
+    birthdate: 1821
+    deathdate: 1897
+    gutenberg_agent_id: '39322'
+    url: http://www.gutenberg.org/2009/agents/39322
+description: ''
+gutenberg_issued: '2011-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: The Making of William Edwards; or, The Story of the Bridge of Beauty
+url: http://www.gutenberg.org/ebooks/38212
