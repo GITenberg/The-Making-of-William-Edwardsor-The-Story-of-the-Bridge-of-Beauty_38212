@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '39322'
     url: http://www.gutenberg.org/2009/agents/39322
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38212#The-Making-of-William-Edwardsor-The-Story-of-the-Bridge-of-Beauty
 gutenberg_issued: '2011-12-05'
 gutenberg_type: Text
 identifiers:
